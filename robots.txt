@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://syrae0.github.io/chroniques-de-runeterra/sitemap.xml

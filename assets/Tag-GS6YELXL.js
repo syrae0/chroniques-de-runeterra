@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-DLyUyuBb.js";import{L as t}from"./index-CKbRNb-l.js";var n=e();function r({color:e,to:r,children:i}){let a=e?{"--tag":e}:void 0;return r?(0,n.jsx)(t,{to:r,className:`tag`,style:a,children:i}):(0,n.jsx)(`span`,{className:`tag`,style:a,children:i})}export{r as t};
